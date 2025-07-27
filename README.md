@@ -32,7 +32,7 @@ It provides user-friendly access to student records with features such as adding
 
 ---
 
-## 👤 User Roles:
+## User Roles:
 - **Administrator**  
   Full access to create, delete, and update student records and tables.
 
@@ -41,7 +41,7 @@ It provides user-friendly access to student records with features such as adding
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 **Maxim Sokolov**  
 Student of Computer Science and Technology at HSE University  
